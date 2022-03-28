@@ -12,3 +12,13 @@ GitHub: ylyas-2000
 
 I love coding. I hope I can improve myself in this field. Because I like coding the site that many people use.
 
+## Skills
+
+HTML ~ 75%
+
+CSS ~ 65%
+
+JAVASCRIPT ~ 15%
+
+JQUERY ~ 35%
+
