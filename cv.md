@@ -22,3 +22,16 @@ JAVASCRIPT ~ 15%
 
 JQUERY ~ 35%
 
+## EXAMPLE CODE
+
+```javascript
+let paragraph = document.createElement('p');
+paragraph.addEventListener('click', function(){ paragraph.style.textDecoration = 'line-through'; });
+```
+
+## Education
+
+Belarussian National Technical University of Belarus (BNTU)
+
+Minsk / Belarus
+
