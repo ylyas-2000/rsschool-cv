@@ -35,3 +35,12 @@ Belarussian National Technical University of Belarus (BNTU)
 
 Minsk / Belarus
 
+## LANGUAGES
+
+Turkmen: Native
+
+Turkish: C1
+
+Russian: A2
+
+English: A1
